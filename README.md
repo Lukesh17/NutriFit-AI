@@ -25,7 +25,7 @@
 
 ## Demo
 
-[Insert GIF or Screenshot of the app here]
+
 
 ---
 
@@ -34,3 +34,4 @@
 1. Clone the repository:  
 ```bash
 git clone https://github.com/yourusername/nutrifit-ai.git
+<img width="1920" height="1080" alt="Screenshot 2025-10-12 012104" src="https://github.com/user-attachments/assets/307389fb-4554-4d40-909c-b4f30f4116fc" />
