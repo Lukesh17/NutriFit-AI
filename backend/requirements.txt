@@ -1,8 +1,11 @@
 fastapi
 uvicorn
+streamlit
+pandas
+numpy
 pydantic
 python-multipart
 pillow
 python-dotenv
-google-generativeai
-httpx
+mediapipe==0.10.14
+google-generativeaihttpx
